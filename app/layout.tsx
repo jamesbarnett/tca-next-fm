@@ -6,7 +6,7 @@ import "./globals.css";
 const space_mono = localFont({
   src: './SpaceMono-Bold.woff2',
   display: 'swap',
-  variable: '--ff-space-mono',
+  variable: '--ff-space-mono'
 });
 
 export const metadata: Metadata = {
